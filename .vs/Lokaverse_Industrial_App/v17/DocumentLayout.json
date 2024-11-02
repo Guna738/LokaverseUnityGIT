@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Freelancer\\Lokaverse_Industrial_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|d:\\freelancer\\lokaverse_industrial_app\\assets\\scripts\\uiscripts\\uipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\uipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|d:\\freelancer\\lokaverse_industrial_app\\assets\\scripts\\uiscripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|d:\\freelancer\\lokaverse_industrial_app\\assets\\scripts\\uiscripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\exoa\\common\\scripts\\ui\\basestaticpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\exoa\\common\\scripts\\ui\\basestaticpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\exoa\\common\\scripts\\ui\\basefloatingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\exoa\\common\\scripts\\ui\\basefloatingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\exoa\\homedesigner\\scripts\\ui\\infopopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\exoa\\homedesigner\\scripts\\ui\\infopopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\exoa\\homedesigner\\scripts\\interiordesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\exoa\\homedesigner\\scripts\\interiordesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\exoa\\homedesigner\\scripts\\ui\\modulemenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\exoa\\homedesigner\\scripts\\ui\\modulemenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\scripts\\sceneloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\not_lonely\\overheadcrane\\scripts\\nl_remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\not_lonely\\overheadcrane\\scripts\\nl_remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\not_lonely\\overheadcrane\\scripts\\nl_overheadcrane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\not_lonely\\overheadcrane\\scripts\\nl_overheadcrane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AB7C54-B8D5-4E6D-66F2-E29833C27EF0}|Assembly-CSharp-Editor.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\not_lonely\\overheadcrane\\scripts\\editor\\nl_overheadcrane_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AB7C54-B8D5-4E6D-66F2-E29833C27EF0}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\not_lonely\\overheadcrane\\scripts\\editor\\nl_overheadcrane_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\easyinstructiondialogue\\scripts\\mainclasses\\soloinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\easyinstructiondialogue\\scripts\\mainclasses\\soloinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|D:\\Freelancer\\Lokaverse_Industrial_App\\assets\\easyinstructiondialogue\\scripts\\mainclasses\\instructionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3086CC-0C8E-0C20-09EF-8F68ED2B99DE}|Assembly-CSharp.csproj|solutionrelative:assets\\easyinstructiondialogue\\scripts\\mainclasses\\instructionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\SceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIPanel.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\UIScripts\\UIPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\UIPanel.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\UIScripts\\UIPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\UIPanel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:51:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ButtonSound.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\UIScripts\\ButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\ButtonSound.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\UIScripts\\ButtonSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\ButtonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:40:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\UIScripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\SoundManager.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\UIScripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:41:04.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseStaticPopup.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\Common\\Scripts\\UI\\BaseStaticPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Exoa\\Common\\Scripts\\UI\\BaseStaticPopup.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\Common\\Scripts\\UI\\BaseStaticPopup.cs",
+              "RelativeToolTip": "Assets\\Exoa\\Common\\Scripts\\UI\\BaseStaticPopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:18:46.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseFloatingPopup.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\Common\\Scripts\\UI\\BaseFloatingPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Exoa\\Common\\Scripts\\UI\\BaseFloatingPopup.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\Common\\Scripts\\UI\\BaseFloatingPopup.cs",
+              "RelativeToolTip": "Assets\\Exoa\\Common\\Scripts\\UI\\BaseFloatingPopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:52:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteriorDesigner.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\HomeDesigner\\Scripts\\InteriorDesigner.cs",
+              "RelativeDocumentMoniker": "Assets\\Exoa\\HomeDesigner\\Scripts\\InteriorDesigner.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\HomeDesigner\\Scripts\\InteriorDesigner.cs",
+              "RelativeToolTip": "Assets\\Exoa\\HomeDesigner\\Scripts\\InteriorDesigner.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAqwHEBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:43:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModuleMenuItem.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\ModuleMenuItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\ModuleMenuItem.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\ModuleMenuItem.cs",
+              "RelativeToolTip": "Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\ModuleMenuItem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:43:33.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoPopup.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\InfoPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\InfoPopup.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\InfoPopup.cs",
+              "RelativeToolTip": "Assets\\Exoa\\HomeDesigner\\Scripts\\UI\\InfoPopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:43:18.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeyboardInput.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\KeyboardInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyboardInput.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\KeyboardInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyboardInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:20:22.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NL_OverheadCrane.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_OverheadCrane.cs",
+              "RelativeDocumentMoniker": "Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_OverheadCrane.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_OverheadCrane.cs",
+              "RelativeToolTip": "Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_OverheadCrane.cs",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAswFgCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:07:39.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NL_OverheadCrane_editor.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\Editor\\NL_OverheadCrane_editor.cs",
+              "RelativeDocumentMoniker": "Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\Editor\\NL_OverheadCrane_editor.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\Editor\\NL_OverheadCrane_editor.cs",
+              "RelativeToolTip": "Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\Editor\\NL_OverheadCrane_editor.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv1kAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:07:17.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NL_Remote.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_Remote.cs",
+              "RelativeDocumentMoniker": "Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_Remote.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_Remote.cs",
+              "RelativeToolTip": "Assets\\NOT_Lonely\\OverheadCrane\\Scripts\\NL_Remote.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAASwDEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:58:44.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstructionClass.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\InstructionClass.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\InstructionClass.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\InstructionClass.cs",
+              "RelativeToolTip": "Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\InstructionClass.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwIYBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:41:49.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoloInstruction.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\SoloInstruction.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\SoloInstruction.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\SoloInstruction.cs",
+              "RelativeToolTip": "Assets\\EasyInstructionDialogue\\Scripts\\MainClasses\\SoloInstruction.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAewGQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:31:50.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SceneLoadManager.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\SceneLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoadManager.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\SceneLoadManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoadManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:48:49.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManager.cs",
+              "ToolTip": "D:\\Freelancer\\Lokaverse_Industrial_App\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:42:52.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

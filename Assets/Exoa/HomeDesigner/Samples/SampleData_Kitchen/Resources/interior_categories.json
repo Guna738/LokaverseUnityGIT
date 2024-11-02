@@ -1,0 +1,36 @@
+﻿{
+  "folders": [
+    {
+      "folder": "Instructions",
+      "name": "Instructions"
+    },
+    {
+      "folder": "MCQs",
+      "name": "MCQs"
+    },
+    {
+      "folder": "Appliances",
+      "name": "Appliances"
+    },
+    {
+      "folder": "Cabinets",
+      "name": "Cabinets"
+    },
+    {
+      "folder": "Furnitures",
+      "name": "Furnitures"
+    },
+    {
+      "folder": "Lights",
+      "name": "Lightings"
+    },
+    {
+      "folder": "DoorsWindows",
+      "name": "Doors & Windows"
+    },
+    {
+      "folder": "Patio",
+      "name": "Patio"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd2a239f53ea1341a2c8903f5c0fbf5, type: 3}
+  m_Name: Scene3Demo
+  m_EditorClassIdentifier: 
+  InstructionName: EventDemo
+  Instructions:
+  - "Welcome to Killary's Kill em all. This demonstrates shows how to play the game.
+    \n"
+  - Behind you is the Capitol Building. You have to defend it from onrushing Trump
+    Supporters
+  - "Use WASD keys on your keyboard to move. Use space to Jump. \nPick up the weapons
+    in front on you using the F key."
+  - Shoot as many Trump supporters as you can. Kill the boss monsters within the
+    time limit.
+  - Check for Boss positions in the map using M.
+  - Keep an eye on the Fire gauge in the bottom right of your screen. Once its full
+    use Tab to use "Reptilian Fire attack" and burn multiple supporters at once.
+  - Lastly, if you have a weak heart, this can be a rough place. Goodluck on your
+    game!
+  - A new boss is causing havok. Navigate using the map with M and kill him before
+    the time runs out.

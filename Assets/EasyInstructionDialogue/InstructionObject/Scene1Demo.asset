@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd2a239f53ea1341a2c8903f5c0fbf5, type: 3}
+  m_Name: Scene1Demo
+  m_EditorClassIdentifier: 
+  InstructionName: PlayerInstruction
+  Instructions:
+  - 'These are just a demo sentences showcasing how the instruction can be used in
+    game.
+
+
+    Hello player, welcome to "this game", here you are able to pickup
+    and throw objects however you like.'
+  - Enter the rooms to check for any clue on the case.
+  - 'First person narration use case.
+
+
+    Oops! That looks like a paper, let me
+    check out its content.'

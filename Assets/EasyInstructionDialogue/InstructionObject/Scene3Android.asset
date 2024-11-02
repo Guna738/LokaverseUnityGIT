@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd2a239f53ea1341a2c8903f5c0fbf5, type: 3}
+  m_Name: Scene3Android
+  m_EditorClassIdentifier: 
+  InstructionName: EventDemo
+  Instructions:
+  - 'Welcome to Gangsters Paradise. This demonstrates how to control your Avatar.
+
+'
+  - Use joystick on the left to move your Avatar. Use the jump button to jump.
+  - Use the touch area on the right to change camera view.
+  - The door in front of you is the way into the Gallery. Go inside to check out
+    some of our NFT collection.
+  - Lastly, if you are not a Gangster, this can be a rough place. Goodluck on the
+    game!
